@@ -1,0 +1,11 @@
+se utilizó la plataforma de repl.it que cuenta con una maquina virtual con Linux para realizar, compilar y ejecutar los casos del Trabajo 
+
+Comando:
+g++ main.cpp    <-para compilar 
+./a.out          <-para ejecutar
+
+Está con "case0_matrix1.txt" por defecto (matriz 4*4 X 4*1), cambiar "case2_matrix1.txt"(64*16 X 16*4) para ejecutar segundo caso.
+
+:)
+
+en caso de tener problemas usar este link para ejecutar el progrma montado en repl.it :https://repl.it/@ElvisBadilla/PI-Ensambla#case2_matrix2.txt
